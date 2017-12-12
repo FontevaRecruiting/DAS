@@ -9,6 +9,11 @@
   "author": "Adrian Russo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "file:node_modules/body-parser",
+    "data-service": "^1.5.5",
+    "express": "^4.16.2",
+    "mocker-data-generator": "^2.5.0",
+    "react-services-injector": "^1.0.0-rc.4",
+    "salesforce-node-client": "^1.1.1"
   }
 }
