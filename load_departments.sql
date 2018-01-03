@@ -1,3 +1,5 @@
+USE Employees;
+
 INSERT INTO `departments` VALUES 
 ('d001','Marketing'),
 ('d002','Finance'),
@@ -7,4 +9,4 @@ INSERT INTO `departments` VALUES
 ('d006','Quality Management'),
 ('d007','Sales'),
 ('d008','Research'),
-('d009','Customer Service');
+('d009','Customer Services');
